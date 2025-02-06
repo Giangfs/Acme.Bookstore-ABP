@@ -1,0 +1,19 @@
+# Thư mục và tệp không cần đưa lên GitHub
+
+# .NET build directories
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.swp
+.vscode/
+
+# Docker
+docker-compose.override.yml
+*.env
+
+# Logs
+*.log
